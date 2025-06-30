@@ -84,12 +84,12 @@ class CloudflareBypassChatGPT:
         }
         chrome_options.add_experimental_option("prefs", prefs)
         
-        print("🛡️ Gi start nako ang Chrome with advanced Cloudflare bypass...")
+        print("🛡️ Starting chrome with advanced Cloudflare bypass...")
 
         try:
             # Una nga method - system ChromeDriver
             self.driver = webdriver.Chrome(options=chrome_options)
-            print("✅ Success! Na start na ang Chrome!")
+            print("✅ Success! Chrome has started!")
 
         except Exception as e1:
             try:
@@ -99,7 +99,7 @@ class CloudflareBypassChatGPT:
 
                 service = Service(ChromeDriverManager().install())
                 self.driver = webdriver.Chrome(service=service, options=chrome_options)
-                print("✅ Success! Na start na ang Chrome with webdriver-manager!")
+                print("✅ Success! Chrome with webdriver-manager has started!")
 
             except Exception as e2:
                 print(f"❌ Failed to start Chrome: {e2}")
