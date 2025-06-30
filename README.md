@@ -5,7 +5,7 @@ So basically I was bored one weekend and decided to mess around with making a bo
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fb28b844-bb5b-46ea-b669-ccbbff99e9a6" width="350" >
+  <img src="https://github.com/user-attachments/assets/fb28b844-bb5b-46ea-b669-ccbbff99e9a6" width="750" >
 </div>
 
 
