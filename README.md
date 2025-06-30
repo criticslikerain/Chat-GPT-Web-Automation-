@@ -2,6 +2,14 @@
 
 So basically I was bored one weekend and decided to mess around with making a bot that talks to ChatGPT automatically. Took me like 3 days to figure out all the weird Cloudflare stuff but whatever, it works now.
 
+
+
+<div align="center">
+  <img src="[https://github.com/user-attachments/assets/c72e6088-6263-42b5-be9d-4f100b1094db](https://github.com/criticslikerain/Chat-GPT-Web-Automation-/issues/1#issue-3187734469)" alt="zerotwo" width="350" >
+</div>
+
+
+
 ## What this does
 
 - Opens Chrome and goes to ChatGPT
