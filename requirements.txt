@@ -1,0 +1,5 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+flask==2.3.3
+flask-socketio==5.3.6
+python-socketio==5.8.0
