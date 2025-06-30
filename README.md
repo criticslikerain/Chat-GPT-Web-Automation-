@@ -5,7 +5,7 @@ So basically I was bored one weekend and decided to mess around with making a bo
 
 
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/c72e6088-6263-42b5-be9d-4f100b1094db](https://github.com/criticslikerain/Chat-GPT-Web-Automation-/issues/1#issue-3187734469)" alt="zerotwo" width="350" >
+  <img src="https://github.com/user-attachments/assets/fb28b844-bb5b-46ea-b669-ccbbff99e9a6" width="350" >
 </div>
 
 
